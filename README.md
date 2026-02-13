@@ -8,7 +8,7 @@
 
 This code sample project shows how to change the interactive form field's parameters in a PDF document. Access the document facade used to manage a document without access to its inner structure. The AcroForm facade allows you to retrieve form field and widget options.
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=pdf-document-api-change-pdf-form-field-parameters&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=pdf-document-api-change-pdf-form-field-parameters&~~~was_helpful=no)
 
