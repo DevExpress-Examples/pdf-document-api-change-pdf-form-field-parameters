@@ -4,7 +4,8 @@
     <OptionInfer>On</OptionInfer>
     <OutputType>Exe</OutputType>
     <TargetFramework>net10.0</TargetFramework>
-    <RootNamespace></RootNamespace>
+    <RootNamespace>
+    </RootNamespace>
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="DevExpress.Document.Processor" Version="26.1.5" />
